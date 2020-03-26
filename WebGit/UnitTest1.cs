@@ -9,6 +9,7 @@ namespace WebGit
         [TestMethod]
         public void TestMethod1()
         {
+            GetHashCode();
         }
     }
 }
